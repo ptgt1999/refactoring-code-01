@@ -1,2 +1,13 @@
 # refactoring-code-01
-Refactoring existing site for easier accessibility 
+
+## Description
+
+## Installation
+
+## Usage
+
+## Credits
+
+## License
+
+    MIT License
